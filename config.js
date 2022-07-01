@@ -4,19 +4,19 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 838-2007-3017', 'Rᴇ7.yu'],
-  ['+62 878-2765-9529'],
-  ['+62 852-4075-0713']
+  ['+62 857-8306-2411', 'Rᴇ7.yu'],
+  ['+62 857-8306-2411'],
+  ['+62 857-8306-2411']
 ]
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['6285783062411', '6285783062411', '6285783062411']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [6285783062411] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
